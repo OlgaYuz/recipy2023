@@ -1,4 +1,4 @@
-ingredient1
+3 ingredient1
 ingredients2
 ingredient3
 ingredient4
